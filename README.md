@@ -1,1 +1,1 @@
-# web3-birt
+# Stellar-Workshop-Template
